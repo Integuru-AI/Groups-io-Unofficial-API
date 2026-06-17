@@ -4,9 +4,9 @@ Unofficial Python integrations for Groups.io.
 
 ## Integrations
 
-- `groups_io_download_message_attachment.py` - `download_message_attachment` (166 live events).
-- `groups_io_get_topic_messages.py` - `get_topic_messages` (3 live events).
-- `groups_io_search_groups.py` - `search_groups` (1 live events).
+- `groups_io_download_message_attachment.py` - `download_message_attachment`.
+- `groups_io_get_topic_messages.py` - `get_topic_messages`.
+- `groups_io_search_groups.py` - `search_groups`.
 
 ## Usage
 
